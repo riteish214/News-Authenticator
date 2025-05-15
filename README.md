@@ -1,0 +1,1 @@
+📰 News Authenticator – Fact-Check in Real Time! News Authenticator is a powerful tool designed to verify the authenticity of news articles by analyzing sources, cross-referencing facts, and detecting misinformation. Built with Python and AI-driven techniques, it helps users distinguish between credible journalism and fake news.
